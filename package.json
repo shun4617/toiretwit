@@ -1,0 +1,15 @@
+{
+  "name": "toiretwit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.543.0",
+    "twitter": "^1.7.1"
+  }
+}
